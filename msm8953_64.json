@@ -1,0 +1,18 @@
+{
+  "response": [
+     {
+      "datetime": 1669458248, 
+      "filename": "msm8953_64-ota-eng.cpu-29.zip", 
+      "id": "84b315d3a31ecb8c252faaf873488ea5", 
+      "romtype": "BETA",
+      "size": 412846570, 
+      "url": "https://github.com/SahilSonar/ota_config/releases/download/v1.0.0/msm8953_64-ota-eng.cpu-29.zip", 
+      "version": "v1.0.0",
+      "changelog_system": "random update",
+      "changelog_misc" : "updates to android 10",
+      "changelog_device" : "Added aptX",
+      "changelog_settings" : "New UI",
+      "changelog_securitypatch" : "Updated security patch to Nov 11"
+    }
+  ]
+}
