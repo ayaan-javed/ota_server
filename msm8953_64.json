@@ -1,12 +1,12 @@
 {
   "response": [
      {
-      "datetime": 1669458248, 
-      "filename": "msm8953_64-ota-eng.cpu-29.zip", 
+      "datetime": 1672978979,
+      "filename": "msm8953_64-ota-eng.cpu19.zip", 
       "id": "84b315d3a31ecb8c252faaf873488ea5", 
       "romtype": "BETA",
       "size": 412846570, 
-      "url": "https://easyupload.io/047jgk", 
+      "url": "https://github.com/ayaan-javed/ota_server/releases/download/full-ota/msm8953_64-ota-eng.cpu19.zip", 
       "version": "v1.0.0",
       "changelog_system": "random update",
       "changelog_misc" : "updates to android 10",
