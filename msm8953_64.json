@@ -1,9 +1,9 @@
 {
   "response": [
      {
-      "datetime": 1669729857,
-      "filename": "full_ota.zip", 
-      "id": "84b315d3a31ecb8c252faaf873488ea5", 
+      "datetime": 1669729860,
+      "filename": "incremental_ota_update.zip", 
+      "id": "84b315d3a31ecb8c252faaf873488ea6", 
       "romtype": "BETA",
       "size": 4408260, 
       "url": "https://github.com/ayaan-javed/ota_server/releases/download/inc-ota-4-cpu35/incremental_ota_update.zip", 
