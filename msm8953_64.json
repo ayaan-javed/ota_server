@@ -7,12 +7,12 @@
       "romtype": "BETA",
       "size": 4408260, 
       "url": "https://github.com/ayaan-javed/ota_server/releases/download/inc-ota-2/incremental_build.zip", 
-      "version": "v1.0.1",
+      "version": "v0.0.3",
       "changelog_system": "random update",
       "changelog_misc" : "updates to android 10",
       "changelog_device" : "Added aptX",
       "changelog_settings" : "New UI",
-      "changelog_securitypatch" : "Updated security patch to Nov 11"
+      "changelog_securitypatch" : "Updated security patch to 28 Mar"
     }
   ]
 }
