@@ -2,7 +2,7 @@
   "response": [
      {
       "datetime": 1672978979,
-      "filename": "incremental_build.zip", 
+      "filename": "incremental_ota_update.zip", 
       "id": "84b315d3a31ecb8c252faaf873488ea5", 
       "romtype": "BETA",
       "size": 4408260, 
