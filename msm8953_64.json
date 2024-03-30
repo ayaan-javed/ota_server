@@ -2,12 +2,12 @@
   "response": [
      {
       "datetime": 1707393095,
-      "filename": "ota_update.zip", 
+      "filename": "incremental_ota_update.zip", 
       "id": "84b315d3a31ecb8c252faaf873488ea5", 
       "romtype": "BETA",
       "size": 116317, 
-      "url": "https://github.com/ayaan-javed/ota_server/releases/download/incremental_0.0.3/ota_update.zip", 
-      "version": "v0.0.3",
+      "url": "https://github.com/ayaan-javed/ota_server/releases/download/inc-ota-1/incremental_ota_update.zip", 
+      "version": "v0.0.4",
       "changelog_system": "random update",
       "changelog_misc" : "updates to android 10",
       "changelog_device" : "Added aptX",
