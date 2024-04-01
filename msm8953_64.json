@@ -2,17 +2,17 @@
   "response": [
      {
       "datetime": 1709716471,
-      "filename": "ota_update.zip", 
+      "filename": "msm8953_64-ota-eng.euler22.zip", 
       "id": "84b315d3a31ecb8c252faaf873488ea6", 
       "romtype": "BETA",
       "size": 652116317, 
-      "url": "https://github.com/ayaan-javed/ota_server/releases/download/incremental_0.0.3/ota_update.zip", 
-      "version": "v0.0.4",
+      "url": "https://github.com/ayaan-javed/ota_server/releases/download/full-ota/msm8953_64-ota-eng.euler22.zip", 
+      "version": "v0.0.5",
       "changelog_system": "random update",
       "changelog_misc" : "updates to android 10",
       "changelog_device" : "Added aptX",
       "changelog_settings" : "New UI",
-      "changelog_securitypatch" : "Updated security patch to 28 Mar"
+      "changelog_securitypatch" : "Updated security patch to 01 Apr"
     }
   ]
 }
