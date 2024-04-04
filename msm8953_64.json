@@ -2,17 +2,17 @@
   "response": [
      {
       "datetime": 1709716471,
-      "filename": "ota_incremental_check_from2-3.zip", 
-      "id": "84b315d3a31ecb8c252faaf873488ea8", 
+      "filename": "ota_incremental_check_build.zip", 
+      "id": "84b315d3a31ecb8c252faaf873488ea0", 
       "romtype": "BETA",
       "size": 12116317, 
-      "url": "https://github.com/ayaan-javed/ota_server/releases/download/inc-ota-1/ota_incremental_check_from2-3.zip", 
+      "url": "https://github.com/ayaan-javed/ota_server/releases/download/inc-ota-1/ota_incremental_check_build.zip", 
       "version": "v0.0.4",
       "changelog_system": "random update",
       "changelog_misc" : "updates to android 10",
       "changelog_device" : "Added aptX",
       "changelog_settings" : "New UI",
-      "changelog_securitypatch" : "Updated security patch to 04 Apr"
+      "changelog_securitypatch" : "Updated security patch to 04 Apr 02:09"
     }
   ]
 }
