@@ -7,7 +7,7 @@
       "romtype": "BETA",
       "size": 12116317, 
       "url": "https://github.com/ayaan-javed/ota_server/releases/download/inc-ota-1/ota_incremental_check_build.zip", 
-      "version": "v0.0.5",
+      "version": "0.0.5",
       "changelog_system": "random update",
       "changelog_misc" : "updates to android 10",
       "changelog_device" : "Added aptX",
