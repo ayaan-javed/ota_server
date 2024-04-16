@@ -13,7 +13,6 @@
       "changelog_device" : "Added aptX",
       "changelog_settings" : "New UI",
       "changelog_securitypatch" : "Updated security patch to 04 Apr 02:09"
-      "force_update" : true
     }
   ]
 }
