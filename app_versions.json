@@ -1,0 +1,10 @@
+[
+    {
+        "packageName": "com.example.app",
+        "versionCode": 101
+    },
+    {
+        "packageName": "com.example.anotherapp",
+        "versionCode": 202
+    }
+]
