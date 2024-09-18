@@ -1,18 +1,21 @@
-[
-    {
-        "packageName": "com.eulermotors.eulerlauncher",
-        "versionCode": "1.0.0"
-    },
-    {
-        "packageName": "com.android.car.dialer",
-        "versionCode": "1.0.0"
-    },
-    {
-        "packageName": "com.euler.supermedia",
-        "versionCode": "1.0.1"
-    },
-    {
-        "packageName": "com.example.anotherapp",
-        "versionCode": "202"
-    }
-]
+{
+    "build_number": "0.0.9",
+    "apps": [
+        {
+            "packageName": "com.eulermotors.eulerlauncher",
+            "versionCode": "1.0.0"
+        },
+        {
+            "packageName": "com.android.car.dialer",
+            "versionCode": "1.0.0"
+        },
+        {
+            "packageName": "com.euler.supermedia",
+            "versionCode": "1.0.1"
+        },
+        {
+            "packageName": "com.example.anotherapp",
+            "versionCode": "202"
+        }
+    ]
+}
