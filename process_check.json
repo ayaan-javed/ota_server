@@ -1,10 +1,10 @@
 [
   {
     "name": "DataSync Service",
-    "package": "com.eulermotors.eulerdatasyncservice"
+    "packageName": "com.eulermotors.eulerdatasyncservice"
   },
   {
     "name": "Logging Service",
-    "package": "com.euler.logger"
+    "packageName": "com.euler.logger"
   }
 ]
