@@ -1,19 +1,54 @@
 [
     {
-        "packageName": "com.eulermotors.eulerlauncher",
+        "packageName": "com.euler.cleanerservice",
         "versionCode": "1.0.1"
+    },
+    {
+        "packageName": "com.euler.browser",
+        "versionCode": "1.0.7"
+    },
+    {
+        "packageName": "com.euler.eulerusbcamera",
+        "versionCode": "1.0.1"
+    },
+    {
+        "packageName": "com.euler.datacontrolservice",
+        "versionCode": "1.0.2"
+    },
+    {
+        "packageName": "com.eulermotors.eulerdatasyncservice",
+        "versionCode": "1.0.2"
+    },
+    {
+        "packageName": "com.eulermotors.eulerdiagnosticservice",
+        "versionCode": "1.0.0"
     },
     {
         "packageName": "com.android.car.dialer",
         "versionCode": "1.0.0"
     },
     {
-        "packageName": "com.euler.supermedia",
+        "packageName": "com.eulermotors.eulerlauncher",
         "versionCode": "1.0.1"
     },
     {
-        "packageName": "com.example.anotherapp",
-        "versionCode": "202"
+        "packageName": "com.euler.maps",
+        "versionCode": "1.0.7"
+    },
+    {
+        "packageName": "EulerMonitoringService",
+        "versionCode": "1.0.1"
+    },
+    {
+        "packageName": "com.euler.videoplayer",
+        "versionCode": "1.0.4"
+    },
+    {
+        "packageName": "Logger",
+        "versionCode": "1.0.1"
+    },
+    {
+        "packageName": "com.euler.supermedia",
+        "versionCode": "1.0.1"
     }
-
 ]
