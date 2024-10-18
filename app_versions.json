@@ -9,7 +9,7 @@
     },
     {
         "packageName": "com.euler.eulercamera",
-        "versionCode": "1.0.1"
+        "versionCode": "1.0.6"
     },
     {
         "packageName": "com.euler.datacontrolservice",
@@ -50,9 +50,5 @@
     {
         "packageName": "com.euler.supermedia",
         "versionCode": "1.0.1"
-    },
-    {
-       "packageName": "com.euler.eulercamera",
-       "versionCode": "1.0.1"  
     }
 ]
