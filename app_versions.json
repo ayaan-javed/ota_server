@@ -29,7 +29,7 @@
     },
     {
         "packageName": "com.eulermotors.eulerlauncher",
-        "versionCode": "1.0.1"
+        "versionCode": "1.0.0"
     },
     {
         "packageName": "com.euler.maps",
@@ -45,7 +45,7 @@
     },
     {
         "packageName": "com.euler.logger",
-        "versionCode": "1.0.1"
+        "versionCode": "1.0.0"
     },
     {
         "packageName": "com.euler.supermedia",
