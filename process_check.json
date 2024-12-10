@@ -8,10 +8,6 @@
       "packageName":"com.euler.logger"
    },
    {
-      "name":"Cleaner Service",
-      "packageName":"com.euler.cleanerservice"
-   },
-   {
       "name":"Data Control Service",
       "packageName":"com.euler.datacontrolservice"
    },
