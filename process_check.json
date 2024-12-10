@@ -1,26 +1,26 @@
 [
-  {
-    "name": "DataSync Service",
-    "packageName": "com.eulermotors.eulerdatasyncservice"
-  },
-  {
-    "name": "Logging Service",
-    "packageName": "com.euler.logger"
-  },
-  {
-    "name": "Cleaner Service",
-    "packageName": "com.euler.cleanerservice"
-  },
-  {
-    "name": "Data Control Service",
-    "packageName": "com.euler.datacontrolservice"
-  },
-  {
-    "name": "Monitor Service",
-    "packageName": "com.eulermotors.eulermonitorservice"
-  },
-  {
-    "name": "Analytics Service",
-    "packageName": "com.euler.euleranalyticservice"
-  },
+   {
+      "name":"DataSync Service",
+      "packageName":"com.eulermotors.eulerdatasyncservice"
+   },
+   {
+      "name":"Logging Service",
+      "packageName":"com.euler.logger"
+   },
+   {
+      "name":"Cleaner Service",
+      "packageName":"com.euler.cleanerservice"
+   },
+   {
+      "name":"Data Control Service",
+      "packageName":"com.euler.datacontrolservice"
+   },
+   {
+      "name":"Monitor Service",
+      "packageName":"com.eulermotors.eulermonitorservice"
+   },
+   {
+      "name":"Analytics Service",
+      "packageName":"com.euler.euleranalyticservice"
+   }
 ]
