@@ -5,19 +5,19 @@
     },
     {
         "packageName": "com.euler.browser",
-        "versionCode": "1.0.8"
+        "versionCode": "1.0.9"
     },
     {
         "packageName": "com.euler.eulercamera",
-        "versionCode": "1.0.6"
+        "versionCode": "1.0.8"
     },
     {
         "packageName": "com.euler.datacontrolservice",
-        "versionCode": "1.0.2"
+        "versionCode": "1.0.4"
     },
     {
         "packageName": "com.eulermotors.eulerdatasyncservice",
-        "versionCode": "1.0.2"
+        "versionCode": "1.0.4"
     },
     {
         "packageName": "com.eulermotors.eulerdiagnosticservice",
@@ -29,7 +29,7 @@
     },
     {
         "packageName": "com.eulermotors.eulerlauncher",
-        "versionCode": "1.0.0"
+        "versionCode": "1.0.1"
     },
     {
         "packageName": "com.euler.maps",
@@ -37,7 +37,7 @@
     },
     {
         "packageName": "com.eulermotors.eulermonitorservice",
-        "versionCode": "1.0.2"
+        "versionCode": "1.0.3"
     },
     {
         "packageName": "com.euler.videoplayer",
@@ -45,7 +45,7 @@
     },
     {
         "packageName": "com.euler.logger",
-        "versionCode": "1.0.0"
+        "versionCode": "1.0.2"
     },
     {
         "packageName": "com.euler.supermedia",
